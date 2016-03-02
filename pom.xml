@@ -188,10 +188,6 @@
     <modules>
         <module>core</module>
         <module>web</module>
-        <module>support</module>
-        <module>samples</module>
-        <module>tools</module>
-        <module>all</module>
     </modules>
 
     <build>
